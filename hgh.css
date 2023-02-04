@@ -1,0 +1,5 @@
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(https://i.pinimg.com/originals/34/c2/8b/34c28b5f3f2d87e78169e3784f6bb6c4.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:  cover ; 
